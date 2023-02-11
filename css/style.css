@@ -1,3 +1,13 @@
 h1, h2, p{
     text-align: center;
 }
+
+body{
+    background-color: rgb(246, 119, 72);
+    color: black;
+    font-style: oblique;
+    text-decoration-line: block;
+    height: 100vh;
+    width: 100%;
+
+}
