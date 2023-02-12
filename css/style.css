@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body{
-    background-image:url('https://github.com/chinitoXx/image-resources/blob/eaf29bbe157ffd307c3b48f17ed331f33172274d/yana-gorbunova-2168FFDZKg8-unsplash.jpg?raw=true');
+        /* background-color:rgb(228, 202, 168); */
+    /* background-image:url('https://github.com/chinitoXx/image-resources/blob/c17e8f7af825baa217e5e5d91b3c6d32ad5ab9f2/tea-symbol.jpg?raw=true'); */
+    background-image:url('https://github.com/chinitoXx/image-resources/blob/c17e8f7af825baa217e5e5d91b3c6d32ad5ab9f2/pexels-teddy-yang-6415234.jpg?raw=true');
     background-size:cover;
     background-repeat:no-repeat;
     font-family: 'Roboto', sans-serif;
