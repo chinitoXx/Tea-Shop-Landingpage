@@ -3,9 +3,11 @@
 body{
         /* background-color:rgb(228, 202, 168); */
     /* background-image:url('https://github.com/chinitoXx/image-resources/blob/c17e8f7af825baa217e5e5d91b3c6d32ad5ab9f2/tea-symbol.jpg?raw=true'); */
-    background-image:url('https://github.com/chinitoXx/image-resources/blob/c17e8f7af825baa217e5e5d91b3c6d32ad5ab9f2/pexels-teddy-yang-6415234.jpg?raw=true');
+    background-image:url('https://github.com/chinitoXx/image-resources/blob/2cc230dd919648b54a6113e5b679678cd4e652ce/pexels-nikolay-osmachko-229493.jpg?raw=true');
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
     font-family: 'Roboto', sans-serif;
     padding: 20px;
 }
